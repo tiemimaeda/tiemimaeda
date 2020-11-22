@@ -5,7 +5,7 @@ I worked for many years in Food & Nutrition industry and after 2 years of an adv
 
 It's been about a year since I started this amazing journey and I'm loving it! I'm currently working with .NET applications and learnign a lot!
 
-On my spare time I enjoy listening to music 🎧, watching movies 🎬 and TV series 📺, reading books 📖 and meet up with friends 🍻 (before covid 😓) and sometimes I share some random stuff on Instagram 🤪.
+On my spare time I enjoy listening to music 🎧, watching movies 🎬 and TV series 📺, reading books 📖, meet up with friends 🍻 (before covid 😓) and sometimes I share some random stuff on Instagram 🤪.
 
 
 I'm also on LinkedIn!
