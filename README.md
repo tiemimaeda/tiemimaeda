@@ -7,6 +7,10 @@ It's been about a year since I started this amazing journey and I'm loving it! I
 
 On my spare time I enjoy listening to music 🎧, watching movies 🎬 and TV series 📺, reading books 📖 and meeting up with friends 🍻.
 
-I'm also on LinkedIn!
+<div>
+  <a href="https://github.com/tiemimaeda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiemimaeda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiemimaeda&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-tiemi-maeda/)](https://www.linkedin.com/in/priscila-tiemi-maeda/) 
