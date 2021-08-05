@@ -13,4 +13,5 @@ On my spare time I enjoy listening to music 🎧, watching movies 🎬 and TV se
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiemimaeda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-tiemi-maeda/)](https://www.linkedin.com/in/priscila-tiemi-maeda/) 
