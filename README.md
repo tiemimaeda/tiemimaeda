@@ -14,8 +14,8 @@ On my spare time I enjoy listening to music 🎧, watching movies 🎬 and TV se
 </div>
 
   
- ## Stacks
- <p align="center">
+ ### Skills
+ <p align="left">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -27,5 +27,5 @@ On my spare time I enjoy listening to music 🎧, watching movies 🎬 and TV se
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
 </p> 
 
- ## Contact 
+ ### Contact 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/priscila-tiemi-maeda/)](https://www.linkedin.com/in/priscila-tiemi-maeda/) 
