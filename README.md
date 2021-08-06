@@ -7,7 +7,7 @@ It's been 2 years since I started this amazing journey and I'm loving it! I'm cu
 
 On my spare time I enjoy listening to music 🎧, watching movies 🎬 and TV series 📺, reading books 📖 and meeting up with friends 🍻.
 
-<div>
+<div align="center">
   <a href="https://github.com/tiemimaeda">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=tiemimaeda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiemimaeda&layout=compact&langs_count=7&theme=dracula"/>
