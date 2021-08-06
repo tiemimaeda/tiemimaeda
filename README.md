@@ -3,7 +3,7 @@
 My name is Tiemi Maeda, I'm from SP-Brazil 🇧🇷.
 I worked for many years in Food & Nutrition industry and after 2 years of an adventure in Ireland, I got back to Brazil and finally decided to explore web development 💻. I was part of the 3rd generation of 💛 [\<Laboratoria\>](https://www.laboratoria.la/br), a social startup that aims to empower women in technology. 
 
-It's been about a year since I started this amazing journey and I'm loving it! I'm currently working as a software developer and I keep studying a lot!
+It's been 2 years since I started this amazing journey and I'm loving it! I'm currently working as a software developer and I keep studying a lot!
 
 On my spare time I enjoy listening to music 🎧, watching movies 🎬 and TV series 📺, reading books 📖 and meeting up with friends 🍻.
 
