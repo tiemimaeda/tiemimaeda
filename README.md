@@ -1,7 +1,7 @@
 ### 🙋🏻‍♀️ Hi there, welcome to my GitHub profile!  
 
 My name is Tiemi Maeda, I'm from SP-Brazil 🇧🇷.
-It's been 4years since I started this amazing journey and I'm loving it! I'm currently working as a software developer and I keep studying a lot!
+It's been almosy 5 years since I started this amazing journey and I'm loving it! I'm currently working as a software developer and I keep studying to improve my skills!
 
 On my spare time I enjoy listening to music 🎧, watching movies 🎬 and TV series 📺, reading books 📖 and meeting up with friends 🍻.
 
